@@ -6,7 +6,7 @@ variables:
   var2: "Shaik"
 
 pool:
-  name: myone
+  name: myone1
 
 steps:
   - script: echo "Hey $(var1) $(var2)"
